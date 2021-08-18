@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-hostmanager",["= 1.8.9"]],["ffi",[">= 1.0.0"]],["win32-process",[">= 0"]],["vagrant-sshfs",["= 1.3.6"]]],"checksum":"4568a585c842c4e1667ef4caf36b2faf692409dd6dbd22c57498ca830410826d","vagrant_version":"2.2.9"}
